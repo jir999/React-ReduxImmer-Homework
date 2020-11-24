@@ -1,2 +1,2 @@
-# React-ReduxImmer-Homework
+# React-ReduxColumns-Homework
 Created with CodeSandbox
